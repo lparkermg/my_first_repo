@@ -1,7 +1,10 @@
 Basic Readme...
 
 Install:
+- Stuff
 
 How-To:
+- Things
 
-Contact Info:
+Contact Info
+- More things...
